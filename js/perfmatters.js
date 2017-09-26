@@ -1,2 +1,2 @@
-Cache-control: privet,max-age=31536000
-function logCRP(){var a=window.performance.timing,b=a.domContentLoadedEventStart-a.domLoading;a=a.domComplete-a.domLoading;document.getElementById("crp-stats").textContent="DCL: "+b+"ms, onload: "+a+"ms"}window.addEventListener("load",function(a){logCRP()});
+expires @15h30m;
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('e:f,1 g d 0:0:0 i;6 4(){c a=3.7.9,b=a.8-a.5;a=a.h-a.5;k.j("p-q").r="o: "+b+"2, l: "+a+"2"}3.m("n",6(a){4()});',28,28,'01||ms|window|logCRP|domLoading|function|performance|domContentLoadedEventStart|timing|||var|2018|Expired|Fri|Mar|domComplete|GMT|getElementById|document|onload|addEventListener|load|DCL|crp|stats|textContent'.split('|'),0,{}))
